@@ -9,4 +9,11 @@
 <!---
 LuizPalha/LuizPalha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> I’m interested in Migrate to the developer profession...
+I’m currently learning Java Script
+I’m looking to collaborate on projects that contribute to society
+ How to reach me luizpalhaneto@hotmail.com
+ Pronouns: he/his 
+  Fun fact: I once slept on top of my laptop while studying
+ 
+
